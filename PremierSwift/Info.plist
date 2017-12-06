@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APIKey</key>
+	<string>e4f9e61f6ffd66639d33d3dde7e3159b</string>
+	<key>BaseURL</key>
+	<string>https://api.themoviedb.org/3/</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MovieSample</key>
+	<string>{\"page\":1,\"total_results\":7156,\"total_pages\":358,\"results\":[{\"vote_count\":666,\"id\":19404,\"video\":false,\"vote_average\":9.1,\"title\":\"Dil Le Jayenge\",\"popularity\":34.776829,\"poster_path\":\"/2gvbZBx2G.jpg\",\"original_language\":\"hi\",\"original_title\":\"Dilwale Dule\",\"genre_ids\":[35,18,10749],\"backdrop_path\":\"/nl79FQ8xWFR6J0.jpg\",\"adult\":false,\"overview\":\"Raj is a rich.\",\"release_date\":\"1995-10-20\"}]}</string>
+	<key>PosterBaseURL</key>
+	<string>https://image.tmdb.org/t/p/</string>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+</dict>
+</plist>

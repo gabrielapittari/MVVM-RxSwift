@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  PremierSwift
+
+  Created by Gabriela Pittari on 12/10/2017.
+*/
+
+// Strings in english
+"empty" = "";
+"topMovies" = "Top Movies";
+"error" = "Error";
+"badRequest" = "Bad request";
+"requestError" = "Request error.";
+"tryAgainLater" = "Try again later.";
+"noResults" = "No results";
+"ok" = "OK";

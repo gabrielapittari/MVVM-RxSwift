@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  PremierSwift
+
+  Created by Gabriela Pittari on 12/10/2017.
+*/
+
+// Strings in spanish
+"topMovies" = "Mejores Películas";
+"error" = "Error";
+"badRequest" = "Solicitud incorrecta";
+"requestError" = "Error en solicitud";
+"tryAgainLater" = "Intente de nuevo más tarde";
+"noResults" = "No hay resultados";
+"ok" = "OK";
